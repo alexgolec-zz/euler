@@ -43,3 +43,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# VIM Stuff
+*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
